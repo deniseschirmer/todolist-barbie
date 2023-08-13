@@ -20,7 +20,7 @@ Utilizamos as tecnologias NextJs, Tailwind e TypeScript. Desenvolvemos uma lista
 
 #### As seguintes ferramentas foram usadas na construção do projeto:
 
-- [RE](https://pt-br.reactjs.org/)
+- [REACT](https://pt-br.reactjs.org/)
 - [TYPESCRIPT](https://www.typescriptlang.org/docs/)
 - [TAILWIND](https://tailwindcss.com/)
 
