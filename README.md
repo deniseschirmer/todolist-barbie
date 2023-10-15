@@ -11,7 +11,7 @@
 
 ## Sobre o Projeto
 
-O projeto feito para fim de aprendizado, realizado realizado na Forja Dev!
+O projeto feito para fim de aprendizado, realizado na Forja Dev!
 Utilizamos as tecnologias NextJs, Tailwind e TypeScript. Desenvolvemos uma lista de tarefas, que podemos adicionar novas tarefas, editar, e deletar.
 
 ### Link do projeto:
@@ -19,8 +19,7 @@ Utilizamos as tecnologias NextJs, Tailwind e TypeScript. Desenvolvemos uma lista
 ### 🛠 Tecnologias
 
 #### As seguintes ferramentas foram usadas na construção do projeto:
-
-- [REACT](https://pt-br.reactjs.org/)
+- [NEXTJS](https://nextjs.org/docs)
 - [TYPESCRIPT](https://www.typescriptlang.org/docs/)
 - [TAILWIND](https://tailwindcss.com/)
 
